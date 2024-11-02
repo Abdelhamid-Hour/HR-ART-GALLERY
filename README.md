@@ -3,7 +3,7 @@
 
 Welcome to HR Art, your premier destination for exquisite artwork. Our gallery showcases a diverse collection of paintings, each telling its own unique story. Whether you're an art enthusiast or a casual admirer, our carefully curated selection promises to captivate and inspire.
 
-## Main Page
+## Home Page
 
 Explore our gallery to discover stunning pieces that range from contemporary to classic styles. Learn about the artists behind the masterpieces and the inspiration that drives their creativity. Our user-friendly website ensures a seamless browsing experience, with easy navigation to our Home, Gallery, About Us, and Contact Us sections. Enjoy interactive animations as you scroll through our main page, adding a dynamic touch to your art exploration.
 
